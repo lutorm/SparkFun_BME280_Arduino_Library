@@ -41,7 +41,7 @@ TODO:
 
 //Uncomment the following line to enable software I2C
 //You will need to have the SoftwareWire library installed
-//#include <SoftwareWire.h> //SoftwareWire by Testato. Installed from library manager.
+#include <SoftwareWire.h> //SoftwareWire by Testato. Installed from library manager.
 
 #define I2C_MODE 0
 #define SPI_MODE 1
